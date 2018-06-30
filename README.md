@@ -1,4 +1,4 @@
-A PHP Wrapper for use with the [new Basecamp API](https://github.com/basecamp/bcx-api).
+A PHP Wrapper for use with the [new Basecamp 3 API](https://github.com/basecamp/bcx-api).
 ==============
 
 Simple PHP library to communicate with Basecamp. Works only with new Basecamp.
